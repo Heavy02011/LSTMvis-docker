@@ -7,7 +7,7 @@ MAINTAINER heavy02011
 RUN git clone https://github.com/HendrikStrobelt/LSTMVis.git
 RUN cd LSTMVis
 
-RUN cd /LSTMvis && pip install -r requirements.txt
+RUN cd /LSTMVis && pip install -r requirements.txt
 
 # start server:
 
