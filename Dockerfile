@@ -1,6 +1,7 @@
 # Start with python dependencies
 #FROM python
-FROM kaggle/python
+#FROM kaggle/python:2.7
+FROM python:2.7
 MAINTAINER heavy02011
 
 # get code
